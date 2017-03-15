@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 /*rgb(35,177,200)*/
 @font-face {
-	   font-family:'welcome';
+	   font-family:'MAIANRegular';
 	   src: url(../font/MAIAN.ttf)format('truetype');
  }
 *{
@@ -78,7 +78,7 @@ a{
 	color:black;
 	font-size: 2em;
 	font-size: 600;
-	font-family: 'welcome';
+	font-family: 'MAIANRegular';
 	line-height: 1.7;
 	font-weight: 900;
 	border-bottom: 2px rgba(87,87,87,1.00) solid;
@@ -92,7 +92,7 @@ a{
 }
 
 #welcome-con{
-	font-family: 'welcome';
+	font-family: 'MAIANRegular';
 	line-height: 1.7;
 }
 #welcome-box-con-width{
