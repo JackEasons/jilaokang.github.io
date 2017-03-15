@@ -1,5 +1,5 @@
-/*rgb(35,177,200)*/
-@font-face {
+
+nt-face {
 	   font-family:welcome;
 	   src: url(../font/MAIAN.TTF)
  }
@@ -63,7 +63,7 @@ a{
 }
 
 #welcome-box{
-	width: 56%;
+	width: 1075px;
 	margin: 0 auto;
 	padding: 200px 0 40px 0;
 	background-color:rgba(219,219,219,.15);
@@ -106,19 +106,26 @@ img{
 	width: 80px;
 	height: 80px;
 	float: right;
-	margin-top: -45%;
+	margin-top: -30%;
 }
 
 #thanks{
-	width: 100%;
-	position:fixed;
     bottom:0;
+	margin: 0 auto;
+	
 }
+
 #thanks-position{
+		margin: 0 auto;
+	text-align: center;
+	
 	border-top:1px rgba(87,87,87,.15) solid;
-	width: 16%;
+	width: 307px;
 	line-height: 2.5;
 	color: rgba(87,87,87,.80);
 	font-size: .73em;
-	margin:1% 0 2% 22%;
 }
+#juzhong{
+	margin: 0 auto;
+}
+
