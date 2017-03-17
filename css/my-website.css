@@ -1,7 +1,3 @@
-@font-face {
-	   font-family:"MAIANRegular";
-	   src: url(../font/MAIAN.ttf)；
- }
 *{
 	margin: 0;
 	padding: 0;
@@ -124,7 +120,7 @@ img{
 
 
 nt-face {
-	   font-family:welcome;
+	   font-family:'HoangYen11980180d22186ca';
 	   src: url(../font/MAIAN.TTF)
  }
 *{
@@ -202,7 +198,7 @@ a{
 	color:black;
 	font-size: 2em;
 	font-size: 600;
-	font-family: welcome;
+	font-family: 'HoangYen11980180d22186ca';
 	line-height: 1.7;
 	font-weight: 900;
 	border-bottom: 2px rgba(87,87,87,1.00) solid;
@@ -216,7 +212,7 @@ a{
 }
 
 #welcome-con{
-	font-family: welcome;
+	font-family: 'HoangYen11980180d22186ca';
 	line-height: 1.7;
 	cursor: default;
 }
