@@ -12,10 +12,13 @@ html{
 ul{
 	list-style: none; 
 }
-
+nav{
+	background-color: yellowgreen;
+}
 nav ul{
 	text-align: center;
-	background-color:yellowgreen;
+	width: 800px;
+	margin: auto;
 }
 
 nav ul li{
