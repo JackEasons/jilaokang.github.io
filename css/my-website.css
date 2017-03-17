@@ -110,8 +110,9 @@ img{
 }
 #thanks-position{
 	border-top:1px rgba(87,87,87,.15) solid;
-	width: 16%;
 	margin: 0 auto;
+	width: 80%;
+	text-align: center;
 	line-height: 2.5;
 	color: rgba(87,87,87,.80);
 	font-size: .73em;
