@@ -1,0 +1,95 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family:"微软雅黑";
+}
+
+html{
+	width: 100%;
+	overflow: hidden;
+}
+
+
+ul{
+	list-style: none; 
+}
+nav{
+	background-color: yellowgreen;
+}
+nav ul{
+	text-align: center;
+	margin: auto;
+}
+
+nav ul li{
+	display: inline;
+	font-size: 1.3em;
+	line-height: 2.7;
+	vertical-align:middle;
+	color:ghostwhite;
+	margin:0 10px;
+	font-weight: 100;
+	
+}
+nav ul li:hover{
+	color:rgb(35,177,200);
+	border-bottom: 3px rgb(35,177,200) solid;
+	padding-bottom: 5px;
+
+}
+.logo{
+	font-size: 2em;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: rgba(255,255,255,1.00);
+	font-weight: 600;
+	cursor: default;
+	line-height: 1.7;
+	margin-left: 10%;
+	float: left;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+#thanks{
+	width: 100%;
+	position:fixed;
+    bottom:0;
+}
+
+#thanks-position{
+	border-top:1px rgba(87,87,87,.15) solid;
+	margin: 0 auto;
+	width: 50%;
+	text-align: center;
+	line-height: 2.5;
+	color: rgba(87,87,87,.80);
+	font-size: .73em;
+}
+
+.title{
+	font-size: 28px;
+	line-height: 2.0;
+	font-family:'SouvenirITCbyBT9802f599d186ca';
+	border-bottom: 2px rgba(87,87,87,1.00) solid;
+	cursor: default;
+}
+.footer-icon{
+	font-size: 1.4em;
+	margin-left: 5px;
+	color: rgba(87,87,87,.80);
+}
+.content{
+	font-size: 16px;
+	margin:20px 0 0 40px;
+	color: rgba(47,44,44,1.00);
+	letter-spacing:1px;
+	word-spacing: 10px;
+}
+
+.icon-right{
+	margin-right: 20px;
+	font-size: 22px;
+}
