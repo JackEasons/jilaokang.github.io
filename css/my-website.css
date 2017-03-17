@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-/*rgb(35,177,200)*/
 @font-face {
 	   font-family:"MAIANRegular";
-	   src: url(../font/MAIAN.ttf);
+	   src: url(../font/MAIAN.ttf)；
  }
 *{
 	margin: 0;
@@ -123,7 +121,7 @@ img{
 	color: rgba(87,87,87,.80);
 	font-size: .73em;
 }
-=======
+
 
 nt-face {
 	   font-family:welcome;
@@ -194,6 +192,7 @@ a{
 	padding: 200px 0 40px 0;
 	background-color:rgba(219,219,219,.15);
 	border-radius: 10px;
+	cursor: default;
 	
 }
 #welcome-box-con{
@@ -219,6 +218,7 @@ a{
 #welcome-con{
 	font-family: welcome;
 	line-height: 1.7;
+	cursor: default;
 }
 #welcome-box-con-width{
 	width:50%;
@@ -238,6 +238,7 @@ img{
 #thanks{
     bottom:0;
 	margin: 0 auto;
+	cursor: default;
 	
 }
 
@@ -254,5 +255,3 @@ img{
 #juzhong{
 	margin: 0 auto;
 }
-
->>>>>>> b7b5afbb073340808116e993a0e3c8a406dbcfb1
