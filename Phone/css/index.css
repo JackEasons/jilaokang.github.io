@@ -7,9 +7,9 @@
 	font-family: 'SouvenirITCbyBT9802f599d186ca';
 }
 #welcome-img{
-	width: 350px;
-	height: 350px;
-	margin-left: 60%;
+	width: 280px;
+	height: 280px;
+	margin-left: auto;
 }
 
 #welcome-font{
@@ -21,6 +21,7 @@
 #welcome-con{
 	width: 60%;
 	font-size: 2em;
+	line-height: 1.7
 }
 .logo-font{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
