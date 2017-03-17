@@ -73,7 +73,7 @@ a{
 	border-bottom: 2px rgba(87,87,87,1.00) solid;
 	cursor: default;
 }
-#footer-icon{
+.footer-icon{
 	font-size: 1.4em;
 	margin-left: 5px;
 	color: rgba(87,87,87,.80);
