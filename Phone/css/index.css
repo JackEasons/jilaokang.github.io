@@ -1,5 +1,5 @@
 #welcome{
-	width: 90%;
+	width: 85%;
 	margin:30px auto 50px auto;
 	background: rgba(0,0,0,.03);
 	padding: 50px;
@@ -22,7 +22,7 @@
 }
 #welcome-con{
 	width: 60%;
-	font-size: 2em;
+	font-size: 2.3em;
 	line-height: 1.7
 }
 .logo-font{
