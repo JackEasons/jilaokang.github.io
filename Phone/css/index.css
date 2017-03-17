@@ -7,13 +7,14 @@
 	font-family: 'SouvenirITCbyBT9802f599d186ca';
 }
 #welcome-img{
-	width: 280px;
-	height: 280px;
+	width: 230px;
+	height: 230px;
 	margin-left: auto;
+	border-radius: 5px;
 }
 
 #welcome-font{
-	margin-top: 50px;
+	margin-top: 130px;
 	width: 65%;
 	font-size: 3em;
 	border-bottom: 2px rgba(87,87,87,1.00) solid;
