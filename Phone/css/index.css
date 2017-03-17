@@ -1,1 +1,29 @@
+#welcome{
+	width: 80%;
+	margin:30px auto 50px auto;
+	background: rgba(0,0,0,.03);
+	padding: 50px;
+	border-radius: 5px;
+	font-family: 'SouvenirITCbyBT9802f599d186ca';
+}
+#welcome-img{
+	width: 350px;
+	height: 350px;
+	margin-left: 60%;
+}
 
+#welcome-font{
+	margin-top: 50px;
+	width: 65%;
+	font-size: 3em;
+	border-bottom: 2px rgba(87,87,87,1.00) solid;
+}
+#welcome-con{
+	width: 60%;
+	font-size: 2em;
+}
+.logo-font{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-weight: 900;
+	color:forestgreen;
+}

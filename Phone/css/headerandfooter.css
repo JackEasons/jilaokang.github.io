@@ -24,7 +24,7 @@ li{
 #header{
 	background-color:yellowgreen;
 	line-height: 2.0;
-	font-size: 5em;
+	font-size: 4em;
 }
 
 a{
@@ -34,7 +34,6 @@ a{
 
 #thanks{
 	width: 100%;
-	position:fixed;
     bottom:0;
 	text-align: center;
 }
@@ -47,3 +46,8 @@ a{
 	line-height: 2.5;
 	margin: 0 auto;
 }
+img{
+	width: 100%;
+	height: 100%;
+}
+
