@@ -30,7 +30,9 @@ nav ul li{
 	font-weight: 100;
 	
 }
-nav ul li:hover{
+nav ul li:hover,
+nav ul a:valid
+{
 	color:rgb(35,177,200);
 	border-bottom: 3px rgb(35,177,200) solid;
 	padding-bottom: 5px;
