@@ -1,7 +1,7 @@
 .title-width{
 	width: 120px;
 }
-#nine ul li img{
+.nine ul li{
 	width: 180px;
 	margin: 4px;
 	height: 180px;
@@ -14,4 +14,10 @@ img{
 #thanks{
 	position: relative;
 }
-
+.title-width2{
+	width: 280px;
+	margin-top: 160px;
+}
+.img-width-length{
+	width: 320px;
+}
