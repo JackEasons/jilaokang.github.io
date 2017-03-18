@@ -19,12 +19,13 @@ li{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: rgba(255,255,255,1.00);
 	font-weight: 600;
+	font-size: 2em;
 }
 
 #header{
 	background-color:yellowgreen;
-	line-height: 2.0;
 	font-size: 4em;
+	height: 157px;
 }
 
 a{
