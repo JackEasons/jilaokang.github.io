@@ -1,0 +1,17 @@
+.title-width{
+	width: 120px;
+}
+#nine ul li img{
+	width: 180px;
+	margin: 4px;
+	height: 180px;
+}
+
+img{
+	width: 100%;
+}
+
+#thanks{
+	position: relative;
+}
+
