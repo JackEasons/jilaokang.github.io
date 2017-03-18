@@ -46,6 +46,7 @@ nav ul li:hover{
 	line-height: 1.7;
 	margin-left: 10%;
 	float: left;
+	user-select:none;
 }
 
 
@@ -57,6 +58,8 @@ a{
 	width: 100%;
 	position:fixed;
     bottom:0;
+	user-select:none;
+	cursor: default;
 }
 
 #thanks-position{
@@ -75,6 +78,7 @@ a{
 	font-family:'SouvenirITCbyBT9802f599d186ca';
 	border-bottom: 2px rgba(87,87,87,1.00) solid;
 	cursor: default;
+	user-select:none;
 }
 .footer-icon{
 	font-size: 1.4em;
@@ -83,13 +87,38 @@ a{
 }
 .content{
 	font-size: 16px;
-	margin:20px 0 0 40px;
 	color: rgba(47,44,44,1.00);
 	letter-spacing:1px;
-	word-spacing: 10px;
+	word-spacing: 6px;
+	font-family:'SouvenirITCbyBT9802f599d186ca';
+}
+
+.content-margin{
+	margin-top: 6px;
 }
 
 .icon-right{
 	margin-right: 20px;
 	font-size: 22px;
+}
+
+#welcome{
+	margin: 0 auto;
+	background-color: white;
+	padding: 4% 0 30px 0;
+}
+p{
+	margin: 13px;
+}
+#welcome-box{
+	width: 900px;
+	margin: 0 auto;
+	padding: 60px 0 40px 0;
+	background-color:rgba(219,219,219,.15);
+	border-radius: 10px;
+	
+}
+
+#welcome-box-con{
+	padding: 50px;
 }

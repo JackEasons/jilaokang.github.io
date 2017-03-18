@@ -1,0 +1,16 @@
+.title-width{
+	width: 80px;
+}
+.time{
+	color:rgba(87,87,87,.80);
+	font-size: 14px;
+}
+.signature{
+	font-family:'GoodVibrationsR986ebdae1186ca';
+	text-align: right;
+	font-size: 20px;
+}
+.content{
+	cursor: default;
+	user-select:none;
+}
