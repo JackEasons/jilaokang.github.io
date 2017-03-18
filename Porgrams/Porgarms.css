@@ -1,0 +1,22 @@
+.title-width{
+	width: 160px;
+}
+div ul li {
+	display: inline;
+}
+ul li img{
+	width: 180px;
+	margin: 4px;
+}
+#thanks{
+	width: 100%;
+	position:relative;
+	user-select:none;
+	cursor: default;
+}
+
+img:hover{
+	transform: scale(1.5);
+	box-shadow: 0 0 50px 10px rgba(0,0,0,.2);
+	transition: transform .2s,box-shadow .2s;
+}
