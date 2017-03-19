@@ -19,6 +19,7 @@ nav ul{
 	width: 800px;
 	height: 60px;
 	margin: auto;
+	overflow: hidden;
 }
 
 nav ul li{
