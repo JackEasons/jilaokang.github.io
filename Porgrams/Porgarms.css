@@ -8,6 +8,12 @@ ul li img{
 	width: 180px;
 	margin: 4px;
 }
+#switch ul li img{
+	width: 480px;
+}
+#switch ul li img{
+	display: block;
+}
 #thanks{
 	width: 100%;
 	position:relative;
@@ -19,4 +25,42 @@ img:hover{
 	transform: scale(1.5);
 	box-shadow: 0 0 50px 10px rgba(0,0,0,.2);
 	transition: transform .2s,box-shadow .2s;
+}
+
+#switch ul li img{
+	transform: none;
+}
+.title-width2{
+	width: 280px;
+	margin-top: 160px;
+}
+.turn-down {
+  position: relative;
+  -webkit-filter: brightness(10%);
+  filter: brightness(18%);
+}
+.turn-on-uncomfortable:hover{
+  position: relative;
+  -webkit-filter: brightness(110%);
+  filter: brightness(110%);
+}
+.turn-on-comfortable:hover{
+  position: relative;
+  -webkit-filter: brightness(110%);
+  filter: brightness(110%);
+	transition: filter 1.3s ease-in-out;
+}
+
+.name{
+	text-align: center;
+	color: rgba(0,0,0,.70);
+}
+.tip{
+	color: rgba(0,0,0,.50);
+	border-left: 4px blueviolet solid;
+	background-color:  rgba(0,0,0,.015);line-height: 2.1;width: 60%;
+}
+.tip-img{
+	color:blueviolet;
+	font-size: 1.5em;
 }
