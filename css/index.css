@@ -48,6 +48,7 @@ img{
 	height: 100%;
 	cursor: default;
 	user-select:none;
+	border-radius: 50%;
 }
 
 #box-img{
