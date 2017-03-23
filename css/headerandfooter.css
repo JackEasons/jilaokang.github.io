@@ -35,9 +35,9 @@ nav ul li{
 nav ul li:hover
 {
 	color:rgb(35,177,200);
+	transition: padding-bottom 0.23s;
 	border-bottom: 3px rgb(35,177,200) solid;
 	padding-bottom: 5px;
-
 }
 .logo{
 	font-size: 2em;
