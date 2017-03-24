@@ -6,6 +6,8 @@
 .content{
 	line-height: 2;
 	font-size: 1em;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: 600;
 }
 #International-area-code{
 	color: rgba(0,0,0,.3);
