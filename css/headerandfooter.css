@@ -13,11 +13,11 @@ ul{
 }
 nav{
 	background-color: yellowgreen;
+	height: 60px;
 }
 nav ul{
 	text-align: center;
 	width: 800px;
-	height: 60px;
 	margin: auto;
 	overflow: hidden;
 }
