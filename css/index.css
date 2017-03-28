@@ -23,6 +23,7 @@
 	font-family:'SouvenirITCbyBT9802f599d186ca';
 	line-height: 1.7;
 	border-bottom: 2px rgba(87,87,87,1.00) solid;
+	font-weight:600;
 	user-select:none;
 	cursor: default;
 }
