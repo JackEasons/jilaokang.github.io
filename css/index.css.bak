@@ -22,6 +22,7 @@
 	font-size: 600;
 	font-family:'SouvenirITCbyBT9802f599d186ca';
 	line-height: 1.7;
+	font-weight: 900;
 	border-bottom: 2px rgba(87,87,87,1.00) solid;
 	user-select:none;
 	cursor: default;
