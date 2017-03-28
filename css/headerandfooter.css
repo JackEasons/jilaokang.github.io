@@ -36,7 +36,9 @@ nav ul li:hover
 {
 	color:rgb(35,177,200);
 	transition: padding-bottom 0.23s;
-	-webkit-transition:padding-bottom 0.23s;
+	-moz-transition:padding-bottom 0.23s; /* Firefox 4 */
+	-webkit-transition:padding-bottom 0.23s; /* Safari and Chrome */
+	-o-transition:padding-bottom 0.23s; /* Opera */
 	border-bottom: 3px rgb(35,177,200) solid;
 	padding-bottom: 5px;
 	transition-timing-function: ease;
