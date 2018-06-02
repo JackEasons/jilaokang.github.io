@@ -1,4 +1,7 @@
-
+/* font-family:'VisbyRoundCF-Bold'; */
+@import 'http://cdn.webfont.youziku.com/webfonts/nomal/100042/42976/5b121a7ff629d805b8a97969.css';
+/* font-family:'Angstrom';; */
+@import 'http://cdn.webfont.youziku.com/webfonts/nomal/100042/28596/5b12177af629d805b8a97962.css';
 #welcome{
 	margin: 0 auto;
 	background-color: white;
@@ -19,10 +22,9 @@
 .welcome{
 	color:black;
 	font-size: 2em;
-	font-family:'SouvenirITCbyBT9802f599d186ca';
+	font-family:'TPFRubberDucky';
 	line-height: 1.7;
 	border-bottom: 2px rgba(87,87,87,1.00) solid;
-	font-weight:600;
 	user-select:none;
 	cursor: default;
 }
@@ -33,13 +35,13 @@
 }
 
 #welcome-con{
-	font-family:'SouvenirITCbyBT9802f599d186ca';
+	font-family:'Angstrom';
 	line-height: 1.7;
 	user-select:none;
 	cursor: default;
 }
 #welcome-box-con-width{
-	width:400px;
+	width:360px;
 }
 img{
 	width: 100%;

@@ -1,5 +1,5 @@
 .title-width{
-	width: 120px;
+	width: 100px !important;
 }
 .nine ul li{
 	width: 180px;
@@ -15,7 +15,7 @@ img{
 	position: relative;
 }
 .title-width2{
-	width: 280px;
+	width: 180px !important;
 	margin-top: 160px;
 }
 .img-width-length{
